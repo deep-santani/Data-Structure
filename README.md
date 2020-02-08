@@ -1,12 +1,15 @@
 # Data-Structure
-(1)Simple Structure
-(2)Memory Allocation
-(3)Array 
-(4)Sparse Matrix
-(5)Stack
-(6)Queue
-(7)Link list
-(8)Searching technique involve
-(9)Tower of honoi
-(10)All type Recursion
-(11)Advance case like JOSEPTION problem solution
+<h1>All type of data Structure</h1>
+<ul>
+	<li>Simple Structure</li>
+	<li>Memory Allocation </li>
+	<li>Array</li>
+	<li>Sparse Matrix</li>
+	<li>Stack</li>
+	<li>Queue </li>
+	<li>Link list</li>
+	<li>Searching technique involve</li>
+	<li>Tower of honoi</li>
+	<li>All type Recursion </li>
+	<li>Advance case like JOSEPTION problem solution</li>
+</ul> 
