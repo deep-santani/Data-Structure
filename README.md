@@ -1,6 +1,6 @@
 # Data-Structure
 <h3>All type of data Structure</h3>
-<ul>
+<ol>
 	<li>Simple Structure</li>
 	<li>Memory Allocation </li>
 	<li>Array</li>
@@ -12,4 +12,4 @@
 	<li>Tower of honoi</li>
 	<li>All type Recursion </li>
 	<li>Advance case like JOSEPTION problem solution</li>
-</ul> 
+</ol> 
