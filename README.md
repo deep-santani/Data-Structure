@@ -1,5 +1,5 @@
 # Data-Structure
-<h1>All type of data Structure</h1>
+<h3>All type of data Structure</h3>
 <ul>
 	<li>Simple Structure</li>
 	<li>Memory Allocation </li>
